@@ -1,7 +1,7 @@
-👋 Hi, I’m @SiafroD.
-Second year in CPPT.
-Mostly studying science.
-Big fan of python.
+ - 👋 Hi, I’m @SiafroD.
+ - Second year in CPPT.
+ - Mostly studying science.
+ - Big fan of python.
 
 <!---
 SiafroD/SiafroD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
