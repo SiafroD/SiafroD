@@ -1,5 +1,5 @@
  - 👋 Hi, I’m @SiafroD.
- - First year at ENSEEIHT
+ - First-year student at ENSEEIHT
  - Mostly studying science.
  - Big fan of python.
 
