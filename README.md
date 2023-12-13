@@ -1,5 +1,5 @@
  - 👋 Hi, I’m @SiafroD.
- - Second year in CPPT.
+ - First year at ENSEEIHT
  - Mostly studying science.
  - Big fan of python.
 
